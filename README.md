@@ -5,7 +5,11 @@ This is a simple Tic Tac Toe game implemented in Java using Swing. The game allo
                                                                        Features
                                               
 *Dynamic GUI: Experience a polished and user-friendly interface powered by Java Swing.
+
 *Two-Player Fun: Challenge your friends or family to thrilling matches right on your computer screen.
+
 *Victory Detection: The game intelligently detects winning formations, declaring a champion for aligned marks.
+
 *Draw Detection: In case of a stalemate, the game gracefully announces a draw.
+
 *Restart Capability: Enjoy endless rounds of fun with the option to restart at any point
